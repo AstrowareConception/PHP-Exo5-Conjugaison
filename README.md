@@ -12,7 +12,7 @@ Vérifiez que la chaîne passée en paramètre se termine bien par "er".
 
 # Exemple
 
-_En entrée: _
+_En entrée :_
 
 programmer
 
