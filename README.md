@@ -5,7 +5,7 @@
 # Enoncé
 Créez une fonction qui prend une string en paramètre, le paramètre sera un verbe régulier du premier groupe (finissant par "er" tels que parler, trier, chanter, coder, programmer, ...). Votre fonction doit conjuguer ce verbe au présent de l'indicatif.
 
-# Contrainte :
+# Contrainte
 La chaîne passée en paramètre ne doit pas dépasser 15 caractères ni contenir d'espaces.
 
 Vérifiez que la chaîne passée en paramètre se termine bien par "er".
